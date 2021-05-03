@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PROJETOMV.sql" id="91BBF2CD-2624-1A5E-E53B-F4E18B4000A1" version="3.5">
+<createdBy>felip</createdBy>
+<createdTime>2021-05-01 21:16:22 UTC</createdTime>
+<ownerDesignName>PROJETOMV.sql</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>91BBF2CD-2624-1A5E-E53B-F4E18B4000A1</designId>
+</OSDM_Design>
